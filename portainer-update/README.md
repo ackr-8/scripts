@@ -14,7 +14,7 @@ DATA_DIR :: Data directory of portainer.
 Run the following commands :
 
 ```bash
-curl -O https://raw.githubusercontent.com/ackr-8/scripts/master/
+curl -O https://raw.githubusercontent.com/ackr-8/scripts/main/portainer-update/portainer-update.sh
 chmod +x portainer-update.sh
 ./portainer-update.sh
 ```
