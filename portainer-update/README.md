@@ -7,6 +7,7 @@ A simple bash script which updates portainer-ce docker container to the latest i
 ## Environment Variables
 
 PORT :: Pass the port of portainer web interface.
+
 DATA_DIR :: Data directory of portainer.
 
 ## Usage
