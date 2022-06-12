@@ -15,5 +15,5 @@ Run the following commands in the folder containing the webm files :
 ```bash
 curl -O https://raw.githubusercontent.com/ackr-8/scripts/main/webm-to-mp3-converter/webm-to-mp3-converter.sh
 chmod +x webm-to-mp3-converter.sh
-./portainer-update.sh
+./webm-to-mp3-converter.sh
 ```
